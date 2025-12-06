@@ -1,0 +1,28 @@
+﻿.login-wrap .icon {
+    background: #7E57FF;
+}
+
+.login-wrap h3 {
+    color: #7E57FF;
+}
+
+.checkbox-primary {
+    color: #7E57FF;
+}
+
+    .checkbox-primary input:checked ~ .checkmark:after {
+        color: #7E57FF;
+    }
+
+.checkbox-primary {
+    color: #7E57FF;
+}
+
+a {
+    color: #7E57FF;
+}
+
+.btn.btn-primary {
+    background: #7E57FF !important;
+    border: 1px solid #7E57FF !important;
+}
